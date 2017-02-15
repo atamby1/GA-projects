@@ -1,4 +1,4 @@
-Project 5: Predicting Terrorism / Bayesian Inference (Mini)
+Project 5: Predicting Terrorism / Bayesian Inference
 
 ## About the Dataset
 
